@@ -1,0 +1,13 @@
+file_format: "1"
+id: untitled
+name: untitled
+type: shield
+url: https://github.com/AnthonyAmanse/untitled-keyboard
+requires: [nice!nano]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+siblings:
+  - untitled_left
+  - untitled_right
