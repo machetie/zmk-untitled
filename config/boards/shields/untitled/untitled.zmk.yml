@@ -3,7 +3,7 @@ id: untitled
 name: untitled
 type: shield
 url: https://github.com/AnthonyAmanse/untitled-keyboard
-requires: [nice!nano]
+requires: [nice_nano_v2]
 exposes: [i2c_oled]
 features:
   - keys
