@@ -1,4 +1,4 @@
-ZMK for https://github.com/machetie/untitled-keyboard.git
+ZMK for https://github.com/AnthonyAmanse/untitled-keyboard.git
 
 
 
