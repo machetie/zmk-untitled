@@ -4,7 +4,7 @@
 if SHIELD_UNTITLED_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Untitled KB Left"
+	default "Pepsi KB"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
@@ -14,7 +14,7 @@ endif
 if SHIELD_UNTITLED_RIGHT
 
 config ZMK_KEYBOARD_NAME
-	default "Untitled KBRight"
+	default "Pepsi KB Right"
 
 endif
 
@@ -32,7 +32,7 @@ config SSD1306
 	default y
 
 config SSD1306_REVERSE_MODE
-	default y
+	default n
 
 endif # ZMK_DISPLAY
 
